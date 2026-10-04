@@ -1,0 +1,12 @@
+@"
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+data/
+*.log
+*.pptx
+*.docx
+/AliNikookhesal-EmotionProject.pdf
+"@ | Set-Content .gitignore
